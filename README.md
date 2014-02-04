@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Evgenia Kiseleva*].(janekis@aol.com)
+by [Evgenia Kiseleva*](janekis@aol.com).
